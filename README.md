@@ -8,7 +8,7 @@ This repository is organized as following:
    morphology 4) Object detection and measurement.
 
 - **Task2_CraterDetector**:
-  - For this activity, we were given external code from Kaggle, which consisted of a crater detection model. Our task was to make it work for the set of images from the "Martian/Lunar Crater Detection Dataset," also available on Kaggle. This database comprises images of craters on the moon and Mars. Therefore, the ultimate goal was to create a crater detection model specifically tailored for lunar and Martian craters. Additionally, we were asked to employ a different detection model than the one used in the provided external code.
+  - For this activity, we were given an external Kaggle code (https://www.kaggle.com/code/benmanor/crater-object-detection-using-faster-rcnn), which consisted of a crater detection model. Our task was to make it work for the set of images from the "Martian/Lunar Crater Detection Dataset" ,also available on Kaggle(https://www.kaggle.com/datasets/lincolnzh/martianlunar-crater-detection-dataset/data). This database comprises images of craters on the moon and Mars. Therefore, the ultimate goal was to create a crater detection model specifically tailored for lunar and Martian craters. Additionally, we were asked to employ a different detection model than the one used in the provided external code.
     
 - **FindingNuclei[KaggleCompetition]**:
   - In the 2018 Kaggle Data Science Bowl competition, participants were challenged to create algorithms capable of automating the detection of cell nuclei. The underlying mission was to accelerate the development 
@@ -19,5 +19,5 @@ This repository is organized as following:
     competition.
     
 - **RetinalDiseaseClassification**:
-  - For our final project, we were tasked with creating an algorithm to detect, through retinal images, whether a person is suffering from a retinal disease or not. The model will be developed using the dataset provided by the "Retinal Disease Classification" dataset from Kaggle: https://www.kaggle.com/datasets/andrewmvd/retinal-disease-classification. 
+  - For our final project, we were tasked with creating an algorithm to detect, through retinal images, whether a person is suffering from a retinal disease or not. The model was developed by using the dataset provided by the "Retinal Disease Classification" from Kaggle: https://www.kaggle.com/datasets/andrewmvd/retinal-disease-classification. 
 
